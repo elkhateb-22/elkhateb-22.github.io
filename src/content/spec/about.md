@@ -1,9 +1,3 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
-
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+Amr Abdelhamide ( Bad Glitch) , Red Teamer | Penetration Tester | Offensive Security Specialist ,Proactive, Certified, and Always Evolving With over two years of hands-on experience in the cybersecurity field, I specialize in offensive security operations—helping organizations secure their digital infrastructure from real-world adversaries. My journey has been driven by passion, curiosity, and a relentless desire to understand how systems break—and how to protect them.I hold multiple industry-recognized certifications, including:CRTP | OSCP | eCPPTv2 | eWPT | eWAPTXv3 | eJPTv2 ,Trained in Offensive Security Pro Labs (Dante, RastaLabs, APT, P.O.O.) , These reflect not only technical skill, but also my commitment to staying ahead in a rapidly evolving threat landscape
