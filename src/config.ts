@@ -73,11 +73,6 @@ export const profileConfig: ProfileConfig = {
 			icon: "fa6-brands:github",
 			url: "https://github.com/Bad-Glitch",
 		},
-		{
-			name: "HackTheBox",
-			icon: "fa6-brands:font-awesome",
-			url: "https://app.hackthebox.com/profile/11111111",
-		},
 	],
 };
 
